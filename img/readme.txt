@@ -1,1 +1,1 @@
-test
+Imagens utilizadas no projeto.
